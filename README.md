@@ -1,5 +1,5 @@
 LingYunCraft凌云帝国服务器是一个中国服务器
-
+LingYunCraft is a Minecraft:Java Editon server of China
 =================================================================================
 
 我们的联系方式如下：
